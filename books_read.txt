@@ -1,0 +1,37 @@
+- June 2012 - "Working effectively with legacy code" by Michael Feathers
+- September 2012 - "OpenGL Superbible" by Graham Sellers, Richard S. Wright and Nicholas Haemel
+
+- July 2013 - "The Boost C++ Libraries" by Boris Schäling
+- October 2013 - "Code Complete" by McConnell
+- November 2013 - "OpenCL Programming Guide" by Aaftab Munshi, Benedict Gaster, Timothy G. Mattson and Dan Ginsburg
+- December 2013 - "OpenCL in action" by Matthew Scarpino
+- December 2013 - "Design patterns: Elements of reusable object-oriented software" by Erich Gamma, Richard Helm, Ralph Johnson and John Vlissides
+
+- January 2014 - "Java for dummies" by Barry Burd
+- March 2014 - "Effective Java" by Joshua Bloch
+- April 2014 - "Head First JavaScript" by Michael Morrison
+- May 2014 - "The Algorithm Design Manual" by Steven S. Skiena
+- May 2014 - "Java Network Programming" by Eliotte Rusty Harold
+- July 2014 - “Android Programming: The Big Nerd Ranch Guide” by Brian Hardy and Bill Phillips
+- August 2014 - “Python 3 Object Oriented Programming” by Dusty Phillips
+- September 2014 - "Making Java Groovy" - Kenneth A. Kousen
+- October 2014 - “Head First C#” - Andrew Stellman & Jennifer Greene
+- October 2014 - "Unity 4.x Game Development by Example Beginner's Guide" - Ryan Henson Creighton 
+
+- January 2015 - "C# in Depth" - Jon Skeet
+- February 2015 - "Python for data analysis" - Wes McKinney
+- February 2015 - "Mastering Machine Learning with scikit-learn" - Gavin Hackeling
+- March 2015 - "The Mythical Man-Month" - Frederick P. Brooks Jr.
+- March 2015 - "Writing Idiomatic Python 3.3" - Jeff Knupp 
+- April 2015 - "The Ruby Programming Language" - Davd Flangan and Yukihiro Matsumoto
+- April 2015 - "Android Programming: Pushing the Limits" - Erik Hellman
+- May 2015 - "Swift Development with Cocoa - Developing for the Mac and iOS app stores" - Jonathon Manning, Paris Buttfield-Addison & Tim Nugent
+- May 2015 - "Learning　PHP, MySQL　& JavaScript (WITH JQUERY, CSS & HTML5)"" - Robin Nixon
+- July 2015 - "Practical Object-Oriented Design in Ruby - An Agile Primer" - Sandi Metz
+- August 2015 - "Xamarin Essentials" - Mark Reynolds
+- August 2015 - "Xamarin Mobile Application Development: Cross-Platform C# and Xamarin.Forms Fundamentals" - Dan Hermes
+
+- October 2015 - "Beginning GIMP - From Novice to Professional" - Akkana Peck
+- November 2015 - "Software Architecture in Practice" - Len Bass
+
+- January 2015 - "OpenCV 2 Computer Vision Application Programming Cookbook" - Robert Laganiere
