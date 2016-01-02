@@ -148,3 +148,4 @@ Product development and design:
 
 Cloud computing:
 - Amazon Web Services For Dummies - Bernard Golden
+- AWS Scripted - Christian Cerri 
