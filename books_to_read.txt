@@ -108,7 +108,6 @@ Virtualization:
 - Learning Saltstack - Colton Myers
 
 Software architecture:
-- Software Architecture in Practice (3rd Edition) - Len Bass 
 - Patterns of Enterprise Application Architecture – Martin Fowler
 - Architecture: Working With Stakeholders Using Viewpoints and Perspectives Hardcover – Nick Rozanski 
 - Software Product Lines: Practices and Patterns - Paul Clements
