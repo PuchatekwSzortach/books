@@ -1,28 +1,24 @@
-Various:
+Parallel programming:
+- Parallel Programming with MPI - Peter Pacheco
+- Using OpenMP: Portable Shared Memory Parallel Programming (Scientific and Engineering Computation)
+- Structured Parallel Programming: Patterns for Efficient Computation
+
+Best coding practices:
 - Writing Secure Code - Howard, Michael and David LeBlanc
 - Test-Driven Development: By example - Kent Beck
-- Parallel Programming with MPI - Peter Pacheco
 - Refactoring: Improving the Design of Existing Code
-- Object-Oriented Software Construction - Meyer
-- Using OpenMP: Portable Shared Memory Parallel Programming (Scientific and Engineering Computation)
 - Programming Pearls
 - Performance Solutions: A Practical Guide to Creating Responsive, Scalable Software - Smith, Connie U. and Lloyd G. Williams
-- Principles of Software Engineering Management - Gilb, Tom
-- Structured Parallel Programming: Patterns for Efficient Computation
-- Generic Programming and the STL - Matthew H. Austern
-- Modern C++ Design: Generic Programming and Design Patterns Applied - Andrei Alexandrescu, 
 - Generative Programming: Methods, Tools, and Applications - Krzysztof Czarnecki, Ulrich Eiseneckers
 - The Scrum Field Guide: Practical Advice for Your First Year -     Mitch Lacey  
 - Agile Estimating and Planning - Mike Cohn
 - User Stories Applied: For Agile Software Development - by Mike Cohn
-- The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses - Eric Ries 
-- Pattern Classification - Richard O. Duda
-- Programming Collective Intelligence: Building Smart Web 2.0 Applications - Toby Segaran
 - Continuous Delivery - Jez Humble and Dave Farley
+
+Software security:
 - Exploiting Software: How to Break Code - Greg Hoglund, Gary McGraw 
 - Exploiting Online Games: Cheating Massively Distributed Systems - Greg Hoglund, Gary McGraw
 - Rootkits: Subverting the Windows Kernel - Greg Hoglund, Jamie Butler
-- Test Driven Development: By Example - Kent Beck
 
 C#:
 - Concurrency in C# Cookbook - Stephen Cleary
@@ -44,9 +40,6 @@ Python books:
 - Learning IPython for Interactive Computing and Data Visualization Paperback – Cyrille Rossan
 - The Python Standard Library by Example (Developer's Library) - Doug Hellmann 
 - Test-Driven Development with Python - Harry J. W. Percival
-
-Gradle book:
-- Gradle in Action - Benjamin Muschko
 
 Continuous Integration:
 - Jenkins: The Definitive Guide - John Ferguson Smart 
@@ -75,6 +68,8 @@ Machine learning:
 - Deep Belief Nets in C++ and CUDA C: Volume 1: Restricted Boltzmann Machines and Supervised Feedforward Networks - Timothy Masters 
 - Practical Neural Network Recipies in C++ - Timothy Masters 
 - Deep Belief Nets in C++ and CUDA C: Volume II: Autoencoding in the Complex Domain (Volume 2) - Timothy Masters 
+- Pattern Classification - Richard O. Duda
+- Programming Collective Intelligence: Building Smart Web 2.0 Applications - Toby Segaran
 
 Unity textbooks:
 - Unity 4.x Cookbook - Matt Smith
@@ -112,11 +107,6 @@ Software architecture:
 - Architecture: Working With Stakeholders Using Viewpoints and Perspectives Hardcover – Nick Rozanski 
 - Software Product Lines: Practices and Patterns - Paul Clements
 
-Management books:
-- Peopleware: Productive Projects and Teams - Tom DeMarco
-- Small Is Beautiful: Economics as if People Mattered Paperback – E. F. Schumacher
-- Joel on Software: And on Diverse and Occasionally Related Matters That Will Prove of Interest to Software Developers, Designers, and Managers, and to Those Who, Whether by Good Fortune or Ill Luck, Work with Them in Some Capacity - Joel Spolsky
-
 Ruby:
 - The Well-Grounded Rubyist Paperback – David A. Black
 - The Rails 4 Way - Obie Fernandez, Kevin Faustino 
@@ -126,7 +116,6 @@ Ruby:
 Android:
 - Android Design Patterns: Interaction Design Solutions for Developers - Greg Nudelman 
 - Advanced Android Application Development -  Joseph Annuzzi Jr
-- Beginning Android Development: Create Your Own Android Apps Today - PawPrints Learning Technologies
 - Android Hacker's Handbook - Joshua J. Drake
 - Professional Android 4 Application Development - Reto Meier
 - Smashing Android UI: Responsive User Interfaces and Design Patterns for Android Phones and Tablets - Juhani Lehtimaki
@@ -134,6 +123,13 @@ Android:
 Regular expressions:
 - Mastering Python Regular Expressions - Félix López
 - Regular Expressions Cookbook - Jan Goyvaerts
+
+Management books:
+- Peopleware: Productive Projects and Teams - Tom DeMarco
+- Small Is Beautiful: Economics as if People Mattered Paperback – E. F. Schumacher
+- Joel on Software: And on Diverse and Occasionally Related Matters That Will Prove of Interest to Software Developers, Designers, and Managers, and to Those Who, Whether by Good Fortune or Ill Luck, Work with Them in Some Capacity - Joel Spolsky
+- Principles of Software Engineering Management - Gilb, Tom
+- The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses - Eric Ries 
 
 Product development and design:
 - Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability - Steve Krug
