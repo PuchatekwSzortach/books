@@ -22,6 +22,7 @@ Software security:
 
 C#:
 - Concurrency in C# Cookbook - Stephen Cleary
+- Introduction to Rx - Lee Campbell
 
 Javascript books:
 - JavaScript: The Good Parts - Douglas Crockford
