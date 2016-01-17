@@ -144,5 +144,4 @@ Product development and design:
 - Hooked: How to Build Habit-Forming Products - Nir Eyal 
 
 Cloud computing:
-- Amazon Web Services For Dummies - Bernard Golden
 - AWS Scripted - Christian Cerri 
