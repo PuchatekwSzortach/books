@@ -34,4 +34,5 @@
 - November 2015 - "Software Architecture in Practice" - Len Bass
 
 - January 2016 - "OpenCV 2 Computer Vision Application Programming Cookbook" - Robert Laganiere
-- January 2016 - Amazon Web Services For Dummies - Bernard Golden
+- January 2016 - "Amazon Web Services For Dummies" - Bernard Golden
+- February 2016 - "Python Module of the Week" - Doug Hellmann - not exactly a book, but a very comprehensive Python modules reference
