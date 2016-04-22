@@ -37,3 +37,4 @@
 - January 2016 - "Amazon Web Services For Dummies" - Bernard Golden
 - February 2016 - "Python Module of the Week" - Doug Hellmann - not exactly a book, but a very comprehensive Python modules reference
 - March 2016 - "Building the Perfect PC" - Robert Thompson
+- April 2016 - "Neural networks and deep learning" - Michael Nielsen
