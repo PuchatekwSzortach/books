@@ -73,6 +73,7 @@ Machine learning:
 - Neural Networks: Tricks of the Trade - Grégoire Montavon
 - Probability Theory: The Logic of Science
 - Machine Learning: a Probabilistic Perspective - Murphy
+- Reinforcement Learning: An Introduction - Richard S. Sutton
 
 Unity textbooks:
 - Unity 4.x Cookbook - Matt Smith
