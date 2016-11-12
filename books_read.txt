@@ -41,3 +41,4 @@
 - July 2016 - "The Laravel Survival Guide" - Tony Lea
 - July 2016 - "Home Buying For Dummies" - Eric Tyson and Ray Brown
 - September 2016 - "Personal Finance For Dummies" - Eric Tyson
+- November 2016 - "Small Business For Dummies" - Eric Tyson, Jim Schell
