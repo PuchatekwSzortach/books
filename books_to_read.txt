@@ -41,6 +41,7 @@ Python books:
 - Learning IPython for Interactive Computing and Data Visualization Paperback – Cyrille Rossan
 - The Python Standard Library by Example (Developer's Library) - Doug Hellmann 
 - Test-Driven Development with Python - Harry J. W. Percival
+- Mastering matplotlib - Duncan M. McGreggor
 
 Continuous Integration:
 - Jenkins: The Definitive Guide - John Ferguson Smart 
