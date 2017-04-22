@@ -150,6 +150,7 @@ Product development and design:
 
 Cloud computing:
 - AWS Scripted - Christian Cerri 
+- AWS Scripted 2 - Christian Cerri
 
 Web development:
 - Teach Yourself VISUALLY WordPress - George Plumley
