@@ -164,9 +164,18 @@ Web security:
 - Hardening Linux Paperback - James Turnbull
 - The Basics of Hacking and Penetration Testing, Second Edition: Ethical Hacking and Penetration Testing Made Easy - Patrick Engebretson
 
-
 Entrepreneurship:
 Small Business Marketing For Dummies - Barbara Schenck
+
+Microservices:
+Building Microservices: Designing Fine-Grained Systems
+Microservice Architecture: Aligning Principles, Practices, and Culture
+Production-Ready Microservices: Building Standardized Systems Across an Engineering Organization
+AWS Lambda: A Guide to Serverless Microservices
+Microservices: Patterns and Applications: Designing fine-grained services by applying patterns
+
+DevOps:
+The DevOps 2.0 Toolkit: Automating the Continuous Deployment Pipeline with Containerized Microservices
 
 Housing:
 What Your Contractor Can't Tell You: The Essential Guide to Building and Renovating - Amy Johnston
