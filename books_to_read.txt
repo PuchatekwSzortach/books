@@ -174,6 +174,12 @@ Production-Ready Microservices: Building Standardized Systems Across an Engineer
 AWS Lambda: A Guide to Serverless Microservices
 Microservices: Patterns and Applications: Designing fine-grained services by applying patterns
 
+REST APIs:
+RESTful Web Services Cookbook: Solutions for Improving Scalability and Simplicity 
+RESTful Web Services 
+REST in Practice: Hypermedia and Systems Architecture
+Build APIs You Won't Hate: Everyone and their dog wants an API, so you should probably learn how to build them'
+
 DevOps:
 The DevOps 2.0 Toolkit: Automating the Continuous Deployment Pipeline with Containerized Microservices
 
