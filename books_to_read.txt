@@ -76,6 +76,9 @@ Machine learning:
 - Machine Learning: a Probabilistic Perspective - Murphy
 - Reinforcement Learning: An Introduction - Richard S. Sutton
 
+Robotics:
+- Probabilistic Robotics - Sebastian Thrun and Wolfram Burgard
+
 Unity textbooks:
 - Unity 4.x Cookbook - Matt Smith
 - Unity 3.x Game Development Essentials (Community Experience Distilled) - Will Goldstone 
