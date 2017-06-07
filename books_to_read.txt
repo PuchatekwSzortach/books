@@ -97,6 +97,7 @@ Autonomous vehicles:
 - Autonomous Intelligent Vehicles: Theory, Algorithms, and Implementation (Advances in Computer Vision and Pattern Recognition) - Hong Cheng
 - The DARPA Urban Challenge: Autonomous Vehicles in City Traffic (Springer Tracts in Advanced Robotics) 2010 edition - Martin Buehler
 - The DARPA Urban Challenge: Autonomous Vehicles in City Traffic (Springer Tracts in Advanced Robotics) 2012 edition - Christopher Rouff 
+- The Science of Vehicle Dynamics: Handling, Braking, and Ride of Road and Race Cars - Massimo Guiggiani
 
 OCR textbooks:
 - Guide to OCR for Arabic Scripts - Volker Märgner
