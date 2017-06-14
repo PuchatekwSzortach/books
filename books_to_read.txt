@@ -98,6 +98,7 @@ Autonomous vehicles:
 - The DARPA Urban Challenge: Autonomous Vehicles in City Traffic (Springer Tracts in Advanced Robotics) 2010 edition - Martin Buehler
 - The DARPA Urban Challenge: Autonomous Vehicles in City Traffic (Springer Tracts in Advanced Robotics) 2012 edition - Christopher Rouff 
 - The Science of Vehicle Dynamics: Handling, Braking, and Ride of Road and Race Cars - Massimo Guiggiani
+- The Car Hacker's Handbook: A Guide for the Penetration Tester - Craig Smith
 
 OCR textbooks:
 - Guide to OCR for Arabic Scripts - Volker Märgner
