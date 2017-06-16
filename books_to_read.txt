@@ -116,6 +116,7 @@ Software architecture:
 - Patterns of Enterprise Application Architecture – Martin Fowler
 - Architecture: Working With Stakeholders Using Viewpoints and Perspectives Hardcover – Nick Rozanski 
 - Software Product Lines: Practices and Patterns - Paul Clements
+- Enterprise Integration Patterns: Designing, Building, and Deploying Messaging Solutions - Gregor Hohpe
 
 Ruby:
 - The Well-Grounded Rubyist Paperback – David A. Black
