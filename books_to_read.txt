@@ -189,8 +189,11 @@ Build APIs You Won't Hate: Everyone and their dog wants an API, so you should pr
 DevOps:
 The DevOps 2.0 Toolkit: Automating the Continuous Deployment Pipeline with Containerized Microservices
 
-IoT:
+Electronics and IoT:
 Raspberry Pi Cookbook: Software and Hardware Problems and Solutions - Simon Monk
+Electronics Cookbook: Practical Electronic Recipes with Arduino and Raspberry Pi - Simon Monk
+Teach Yourself Electricity and Electronics - Simon Monk
+Make: Action: Movement, Light, and Sound with Arduino and Raspberry Pi  - Simon Monk
 
 Housing:
 New Fix-It-Yourself Manual: How to Repair, Clean, and Maintain Anything and Everything In and Around Your Home
