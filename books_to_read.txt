@@ -189,6 +189,8 @@ Build APIs You Won't Hate: Everyone and their dog wants an API, so you should pr
 DevOps:
 The DevOps 2.0 Toolkit: Automating the Continuous Deployment Pipeline with Containerized Microservices
 
+IoT:
+Raspberry Pi Cookbook: Software and Hardware Problems and Solutions - Simon Monk
+
 Housing:
-What Your Contractor Can't Tell You: The Essential Guide to Building and Renovating - Amy Johnston
 New Fix-It-Yourself Manual: How to Repair, Clean, and Maintain Anything and Everything In and Around Your Home
