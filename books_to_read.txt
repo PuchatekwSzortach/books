@@ -163,10 +163,9 @@ Web development:
 - Teach Yourself VISUALLY WordPress - George Plumley
 
 Web security:
-- Web Application Security, A Beginner's Guide - Bryan Sulliva
+- Web Security Testing Cookbook: Systematic Techniques to Find Problems Fast - Paco Hope
 - The Tangled Web: A Guide to Securing Modern Web Applications - Michal Zalewski 
 - Hacking Web Apps: Detecting and Preventing Web Application Security Problems - Mike Shema
-- Web Security Testing Cookbook: Systematic Techniques to Find Problems Fast - Paco Hope
 - Hardening Linux Paperback - James Turnbull
 - The Basics of Hacking and Penetration Testing, Second Edition: Ethical Hacking and Penetration Testing Made Easy - Patrick Engebretson
 
