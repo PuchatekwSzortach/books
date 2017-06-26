@@ -196,3 +196,6 @@ Make: Action: Movement, Light, and Sound with Arduino and Raspberry Pi  - Simon 
 
 Housing:
 New Fix-It-Yourself Manual: How to Repair, Clean, and Maintain Anything and Everything In and Around Your Home
+
+Biographies:
+The Everything Store: Jeff Bezos and the Age of Amazon - Brad Stone
