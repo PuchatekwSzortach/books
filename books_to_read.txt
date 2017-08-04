@@ -15,6 +15,7 @@ Best coding practices:
 - User Stories Applied: For Agile Software Development - by Mike Cohn
 - Continuous Delivery - Jez Humble and Dave Farley
 - Growing Object-Oriented Software, Guided by Tests - Steve Freeman, Nat Pryce
+- Lightweight Systems for Realtime Monitoring - Sam Newman
 
 Software security:
 - Exploiting Software: How to Break Code - Greg Hoglund, Gary McGraw 
