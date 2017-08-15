@@ -3,7 +3,7 @@ Parallel programming:
 - Using OpenMP: Portable Shared Memory Parallel Programming (Scientific and Engineering Computation)
 - Structured Parallel Programming: Patterns for Efficient Computation
 
-Best coding practices:
+Best SE practice:
 - Writing Secure Code - Howard, Michael and David LeBlanc
 - Test-Driven Development: By example - Kent Beck
 - Refactoring: Improving the Design of Existing Code
@@ -16,6 +16,7 @@ Best coding practices:
 - Continuous Delivery - Jez Humble and Dave Farley
 - Growing Object-Oriented Software, Guided by Tests - Steve Freeman, Nat Pryce
 - Lightweight Systems for Realtime Monitoring - Sam Newman
+- Release It!: Design and Deploy Production-Ready Software - Michael Nygard
 
 Software security:
 - Exploiting Software: How to Break Code - Greg Hoglund, Gary McGraw 
