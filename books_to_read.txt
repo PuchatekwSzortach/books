@@ -81,6 +81,10 @@ Machine learning:
 
 Robotics:
 - Probabilistic Robotics - Sebastian Thrun and Wolfram Burgard
+- Programming Robots with ROS: A Practical Introduction to the Robot Operating System - Morgan Quigley
+- ROS Robotics By Example - Carol Fairchild
+- ROS Robotics Projects - Lentin Joseph
+- Learning ROS for Robotics Programming - Enrique Fernandez
 
 Unity textbooks:
 - Unity 4.x Cookbook - Matt Smith
