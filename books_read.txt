@@ -48,3 +48,4 @@
 - April 2017 - "Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future" - Ashlee Vance
 - June 2017 - "What Your Contractor Can't Tell You: The Essential Guide to Building and Renovating" - Amy Johnston
 - June 2017 - "Web Application Security, A Beginner's Guide" - Bryan Sulliva
+- August 2017 - "Building Microservices: Designing Fine-Grained Systems" - Sam Newman
