@@ -180,7 +180,6 @@ Entrepreneurship:
 Small Business Marketing For Dummies - Barbara Schenck
 
 Microservices:
-Building Microservices: Designing Fine-Grained Systems
 Microservice Architecture: Aligning Principles, Practices, and Culture
 Production-Ready Microservices: Building Standardized Systems Across an Engineering Organization
 AWS Lambda: A Guide to Serverless Microservices
