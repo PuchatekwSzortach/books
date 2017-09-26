@@ -49,3 +49,4 @@
 - June 2017 - "What Your Contractor Can't Tell You: The Essential Guide to Building and Renovating" - Amy Johnston
 - June 2017 - "Web Application Security, A Beginner's Guide" - Bryan Sulliva
 - August 2017 - "Building Microservices: Designing Fine-Grained Systems" - Sam Newman
+- September 2017 - "Raspberry Pi Cookbook: Software and Hardware Problems and Solutions" - Simon Monk
