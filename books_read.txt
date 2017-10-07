@@ -50,3 +50,4 @@
 - June 2017 - "Web Application Security, A Beginner's Guide" - Bryan Sulliva
 - August 2017 - "Building Microservices: Designing Fine-Grained Systems" - Sam Newman
 - September 2017 - "Raspberry Pi Cookbook: Software and Hardware Problems and Solutions" - Simon Monk
+- October 2017 - "The Everything Store: Jeff Bezos and the Age of Amazon" - Brad Stone
