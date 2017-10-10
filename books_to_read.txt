@@ -34,15 +34,8 @@ Javascript books:
 - Secrets of the JavaScript Ninja - John Resig
 
 Python books:
-- Python High Performance Programming - Gabriele Lanaro
-- Expert Python Programming - Tarek Ziadé
-- Mining the Social Web: Data Mining Facebook, Twitter, LinkedIn, Google+, GitHub, and More - Matthew A. Russell - apparently a great practical book on production Python code and web coding + a bit of data processing
-- Python Web Programming - Steve Holden 
-- Foundations of Python Network Programming -  Brandon Rhodes
-- Programming Python -  Mark Lutz
+- High Performance Python: Practical Performant Programming for Humans - Micha Gorelick
 - Flask Web Development: Developing Web Applications with Python - Miguel Grinberg
-- Learning IPython for Interactive Computing and Data Visualization Paperback – Cyrille Rossan
-- The Python Standard Library by Example (Developer's Library) - Doug Hellmann 
 - Test-Driven Development with Python - Harry J. W. Percival
 - Mastering matplotlib - Duncan M. McGreggor
 
@@ -57,24 +50,10 @@ Data mining books:
 - Data Science for Business: What you need to know about data mining and data-analytic thinking - Foster Provost - has GREAT reviews!!!
 - Think Bayes - Allen B. Downey 
 - Data Mining: Concepts and Techniques, Third Edition - Jiawei Han
-- Data Smart: Using Data Science to Transform Information into Insight - John W. Foreman 
-- Mastering Machine Learning With scikit-learn - Gavin Hackeling 
 
 Machine learning:
-- Python Machine Learning - Sebastian Raschka
-- Data Mining: Practical Machine Learning Tools and Techniques - Ian H. Witten
-- Machine Learning: The Art and Science of Algorithms that Make Sense of Data - Peter Flach
-- Machine Learning - Tom M. Mitchell 
-- Predictive Analytics For Dummies - Anasse Bari 
-- Learning Data Mining with Python - Robert Layton
 - Pattern Recognition and Machine Learning - Christopher Bishop
-- Introduction to the Math of Neural Networks - Jeff Heaton 
-- Deep Belief Nets in C++ and CUDA C: Volume 1: Restricted Boltzmann Machines and Supervised Feedforward Networks - Timothy Masters 
-- Practical Neural Network Recipies in C++ - Timothy Masters 
-- Deep Belief Nets in C++ and CUDA C: Volume II: Autoencoding in the Complex Domain (Volume 2) - Timothy Masters 
 - Pattern Classification - Richard O. Duda
-- Programming Collective Intelligence: Building Smart Web 2.0 Applications - Toby Segaran
-- Neural Networks: Tricks of the Trade - Grégoire Montavon
 - Probability Theory: The Logic of Science
 - Machine Learning: a Probabilistic Perspective - Murphy
 - Reinforcement Learning: An Introduction - Richard S. Sutton
@@ -86,17 +65,9 @@ Robotics:
 - ROS Robotics Projects - Lentin Joseph
 - Learning ROS for Robotics Programming - Enrique Fernandez
 
-Unity textbooks:
-- Unity 4.x Cookbook - Matt Smith
-- Unity 3.x Game Development Essentials (Community Experience Distilled) - Will Goldstone 
-- Unity Game Development in 24 Hours, Sams Teach Yourself (Sams Teach Yourself -- Hours) - Mike Geig
-- Unity 4.x Game AI Programming - Aung Sithu Kyaw
-- Mastering Unity 2D Game Development - Simon Jackson
-
 Computer vision:
 - Computer Vision a modern approach - 2nd edition
 - Computer and Machine Vision, Fourth Edition: Theory, Algorithms, Practicalities - E. R. Davies 
-- OpenCV for Secret Agents - Joseph Howse
 - Mastering OpenCV with Practical Computer Vision Projects - Daniel Lélis Baggio - contains a lot of stuff on face detection!
 - Multiple View Geometry in Computer Vision - Richard Hartley
 
@@ -184,12 +155,6 @@ Microservice Architecture: Aligning Principles, Practices, and Culture
 Production-Ready Microservices: Building Standardized Systems Across an Engineering Organization
 AWS Lambda: A Guide to Serverless Microservices
 Microservices: Patterns and Applications: Designing fine-grained services by applying patterns
-
-REST APIs:
-RESTful Web Services Cookbook: Solutions for Improving Scalability and Simplicity 
-RESTful Web Services 
-REST in Practice: Hypermedia and Systems Architecture
-Build APIs You Won't Hate: Everyone and their dog wants an API, so you should probably learn how to build them'
 
 DevOps:
 The DevOps 2.0 Toolkit: Automating the Continuous Deployment Pipeline with Containerized Microservices
