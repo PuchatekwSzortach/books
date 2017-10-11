@@ -74,38 +74,28 @@ Computer vision:
 Autonomous vehicles:
 - Autonomous Intelligent Vehicles: Theory, Algorithms, and Implementation (Advances in Computer Vision and Pattern Recognition) - Hong Cheng
 - The DARPA Urban Challenge: Autonomous Vehicles in City Traffic (Springer Tracts in Advanced Robotics) 2010 edition - Martin Buehler
-- The DARPA Urban Challenge: Autonomous Vehicles in City Traffic (Springer Tracts in Advanced Robotics) 2012 edition - Christopher Rouff 
 - The Science of Vehicle Dynamics: Handling, Braking, and Ride of Road and Race Cars - Massimo Guiggiani
 - The Car Hacker's Handbook: A Guide for the Penetration Tester - Craig Smith
 
 OCR textbooks:
 - Guide to OCR for Arabic Scripts - Volker Märgner
-- OCR with a Smile!: An Operator's Guide to Optical Character Recognition - Fred F. Ross
-- Optical Character Recognition Technology -- Application of ABBYY FineReader 11 - Daniel Huang
 - Video Text Detection (Advances in Computer Vision and Pattern Recognition) - Tong Lu
 - Chinese Handwriting Recognition: An Algorithmic Perspective - Tonghua Su
-- Arabic and Chinese Handwriting Recognition: - David Doermann
+- Arabic and Chinese Handwriting Recognition - David Doermann
 
 Virtualization:
 - The Docker Book: Containerization is the new virtualization - James Turnbull
+- Docker: Up & Running: Shipping Reliable Containers in Production - Karl Matthias
 - Learning Saltstack - Colton Myers
 
 Software architecture:
 - Patterns of Enterprise Application Architecture – Martin Fowler
-- Architecture: Working With Stakeholders Using Viewpoints and Perspectives Hardcover – Nick Rozanski 
-- Software Product Lines: Practices and Patterns - Paul Clements
+- Software Systems Architecture: Working With Stakeholders Using Viewpoints and Perspectives Hardcover – Nick Rozanski 
 - Enterprise Integration Patterns: Designing, Building, and Deploying Messaging Solutions - Gregor Hohpe
-
-Ruby:
-- The Well-Grounded Rubyist Paperback – David A. Black
-- The Rails 4 Way - Obie Fernandez, Kevin Faustino 
-- Learn Ruby On Rails For Web Development: Learn Rails The Fast And Easy Way! – John Elder
-- Ruby on Rails Tutorial: Learn Web Development with Rails – Michael Hartl 
 
 Android:
 - Android Design Patterns: Interaction Design Solutions for Developers - Greg Nudelman 
 - Advanced Android Application Development -  Joseph Annuzzi Jr
-- Android Hacker's Handbook - Joshua J. Drake
 - Professional Android 4 Application Development - Reto Meier
 - Smashing Android UI: Responsive User Interfaces and Design Patterns for Android Phones and Tablets - Juhani Lehtimaki
 
@@ -136,9 +126,6 @@ Cloud computing:
 - AWS Scripted - Christian Cerri 
 - AWS Scripted 2 - Christian Cerri
 - AWS Lambda in Action: Event-driven serverless applications - Danilo Poccia
-
-Web development:
-- Teach Yourself VISUALLY WordPress - George Plumley
 
 Web security:
 - Web Security Testing Cookbook: Systematic Techniques to Find Problems Fast - Paco Hope
