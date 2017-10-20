@@ -10,7 +10,7 @@ Best SE practice:
 - Programming Pearls
 - Performance Solutions: A Practical Guide to Creating Responsive, Scalable Software - Smith, Connie U. and Lloyd G. Williams
 - Generative Programming: Methods, Tools, and Applications - Krzysztof Czarnecki, Ulrich Eiseneckers
-- The Scrum Field Guide: Practical Advice for Your First Year -     Mitch Lacey  
+- The Scrum Field Guide: Practical Advice for Your First Year - Mitch Lacey  
 - Agile Estimating and Planning - Mike Cohn
 - User Stories Applied: For Agile Software Development - by Mike Cohn
 - Growing Object-Oriented Software, Guided by Tests - Steve Freeman, Nat Pryce
@@ -127,6 +127,8 @@ Cloud computing:
 - AWS Scripted - Christian Cerri 
 - AWS Scripted 2 - Christian Cerri
 - AWS Lambda in Action: Event-driven serverless applications - Danilo Poccia
+- Amazon Web Services in Action - Andreas Wittig
+- AWS Certified Solutions Architect Official Study Guide: Associate Exam - Joe Baron
 
 Web security:
 - Web Security Testing Cookbook: Systematic Techniques to Find Problems Fast - Paco Hope
