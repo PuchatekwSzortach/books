@@ -39,6 +39,7 @@ Python books:
 - Mastering matplotlib - Duncan M. McGreggor
 
 DevOps:
+- The DevOps Handbook: How to Create World-Class Agility, Reliability, and Security in Technology Organizations - Gene Kim
 - Jenkins: The Definitive Guide - John Ferguson Smart 
 - Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation - Jez Humble, David Farley
 - The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win - Gene Kim
