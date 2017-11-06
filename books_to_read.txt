@@ -112,6 +112,7 @@ Management books:
 - Principles of Software Engineering Management - Gilb, Tom
 - The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses - Eric Ries 
 - High Output Management - Andrew S. Grove
+- People Styles at Work...And Beyond: Making Bad Relationships Good and Good Relationships Better - Robert Bolton
 
 Product development and design:
 - Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability - Steve Krug
