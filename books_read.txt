@@ -53,3 +53,4 @@
 - October 2017 - "The Everything Store: Jeff Bezos and the Age of Amazon" - Brad Stone
 - October 2017 - "RESTful Web Services Cookbook: Solutions for Improving Scalability and Simplicity" - Subbu Allamaraju
 - October 2017 - "The Perfect English Grammar Workbook: Simple Rules and Quizzes to Master Today's English" - Lisa McLendon
+- November 2017 - "The Scrum Field Guide: Practical Advice for Your First Year" - Mitch Lacey
