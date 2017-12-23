@@ -14,6 +14,7 @@ Best SE practice:
 - User Stories Applied: For Agile Software Development - by Mike Cohn
 - Growing Object-Oriented Software, Guided by Tests - Steve Freeman, Nat Pryce
 - Lightweight Systems for Realtime Monitoring - Sam Newman
+- Refactoring databases: Evolutionary Database Design - Scott Ambler
 
 Software security:
 - Exploiting Software: How to Break Code - Greg Hoglund, Gary McGraw 
