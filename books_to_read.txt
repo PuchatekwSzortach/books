@@ -141,6 +141,7 @@ Web security:
 
 Entrepreneurship:
 Small Business Marketing For Dummies - Barbara Schenck
+Accounting Made Simple: Accounting Explained in 100 Pages or Less - Mike Piper
 
 Microservices:
 Microservice Architecture: Aligning Principles, Practices, and Culture
