@@ -140,7 +140,6 @@ Web security:
 - The Basics of Hacking and Penetration Testing, Second Edition: Ethical Hacking and Penetration Testing Made Easy - Patrick Engebretson
 
 Entrepreneurship:
-Small Business Marketing For Dummies - Barbara Schenck
 Accounting Made Simple: Accounting Explained in 100 Pages or Less - Mike Piper
 
 Microservices:
