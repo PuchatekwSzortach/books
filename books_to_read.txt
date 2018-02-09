@@ -141,6 +141,7 @@ Web security:
 
 Entrepreneurship:
 Accounting Made Simple: Accounting Explained in 100 Pages or Less - Mike Piper
+Patent Strategy: For Researchers and Research Managers - H. Jackson Knight
 
 Microservices:
 Microservice Architecture: Aligning Principles, Practices, and Culture
