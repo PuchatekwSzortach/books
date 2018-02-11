@@ -140,8 +140,8 @@ Web security:
 - The Basics of Hacking and Penetration Testing, Second Edition: Ethical Hacking and Penetration Testing Made Easy - Patrick Engebretson
 
 Entrepreneurship:
-Accounting Made Simple: Accounting Explained in 100 Pages or Less - Mike Piper
 Patent Strategy: For Researchers and Research Managers - H. Jackson Knight
+Can I Retire?: How Much Money You Need to Retire and How to Manage Your Retirement Savings, Explained in 100 Pages or Less - Mike Piper
 
 Microservices:
 Microservice Architecture: Aligning Principles, Practices, and Culture
