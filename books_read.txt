@@ -23,7 +23,7 @@
 - February 2015 - "Mastering Machine Learning with scikit-learn" - Gavin Hackeling
 - March 2015 - "The Mythical Man-Month" - Frederick P. Brooks Jr.
 - March 2015 - "Writing Idiomatic Python 3.3" - Jeff Knupp 
-- April 2015 - "The Ruby Programming Language" - Davd Flangan and Yukihiro Matsumoto
+- April 2015 - "The Ruby Programming Language" - David Flangan and Yukihiro Matsumoto
 - April 2015 - "Android Programming: Pushing the Limits" - Erik Hellman
 - May 2015 - "Swift Development with Cocoa - Developing for the Mac and iOS app stores" - Jonathon Manning, Paris Buttfield-Addison & Tim Nugent
 - May 2015 - "Learning　PHP, MySQL　& JavaScript (WITH JQUERY, CSS & HTML5)"" - Robin Nixon
