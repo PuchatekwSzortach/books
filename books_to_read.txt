@@ -44,6 +44,8 @@ DevOps:
 - Release It!: Design and Deploy Production-Ready Software - Michael Nygard
 - Refactoring Databases: Evolutionary Database Design - Scott J Ambler, Pramod J. Sadalage
 - Recipes for Continuous Database Integration - Pramod J. Sadalage
+- Terraform: Up and Running: Writing Infrastructure as Code - Yevgeniy Brikman
+- Infrastructure as Code: Managing Servers in the Cloud - Kief Morris
 
 Data mining books:
 - Data Science for Business: What you need to know about data mining and data-analytic thinking - Foster Provost - has GREAT reviews!!!
