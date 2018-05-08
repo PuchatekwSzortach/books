@@ -14,7 +14,7 @@ Best SE practice:
 - User Stories Applied: For Agile Software Development - by Mike Cohn
 - Growing Object-Oriented Software, Guided by Tests - Steve Freeman, Nat Pryce
 - Lightweight Systems for Realtime Monitoring - Sam Newman
-- Refactoring databases: Evolutionary Database Design - Scott Ambler
+- Database Design for Mere Mortals: A Hands-On Guide to Relational Database Design - Michael J. Hernandez
 
 Software security:
 - Exploiting Software: How to Break Code - Greg Hoglund, Gary McGraw 
@@ -130,6 +130,7 @@ Cloud computing:
 - AWS Lambda in Action: Event-driven serverless applications - Danilo Poccia
 - Amazon Web Services in Action - Andreas Wittig
 - AWS Certified Solutions Architect Official Study Guide: Associate Exam - Joe Baron
+- Azure for Architects: Implementing cloud design, DevOps, IoT, and serverless solutions on your public cloud - Ritesh Modi
 
 Web security:
 - Web Security Testing Cookbook: Systematic Techniques to Find Problems Fast - Paco Hope
