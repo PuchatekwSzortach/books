@@ -85,8 +85,6 @@ OCR textbooks:
 - Arabic and Chinese Handwriting Recognition - David Doermann
 
 Virtualization:
-- The Docker Book: Containerization is the new virtualization - James Turnbull
-- Docker: Up & Running: Shipping Reliable Containers in Production - Karl Matthias
 - Learning Saltstack - Colton Myers
 
 Software architecture:
