@@ -15,6 +15,7 @@ Best SE practice:
 - Growing Object-Oriented Software, Guided by Tests - Steve Freeman, Nat Pryce
 - Lightweight Systems for Realtime Monitoring - Sam Newman
 - Database Design for Mere Mortals: A Hands-On Guide to Relational Database Design - Michael J. Hernandez
+- SQL Antipatterns: Avoiding the Pitfalls of Database Programming - Bill Karwin
 
 Software security:
 - Exploiting Software: How to Break Code - Greg Hoglund, Gary McGraw 
