@@ -31,6 +31,7 @@ Javascript books:
 - A Software Engineer Learns HTML5, JavaScript and jQuery - Dane Cameron
 - The Principles of Object-Oriented JavaScript - Nicholas C. Zakas
 - Secrets of the JavaScript Ninja - John Resig
+- Beyond jQuery - Ray Nicholus
 
 Python books:
 - High Performance Python: Practical Performant Programming for Humans - Micha Gorelick
