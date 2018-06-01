@@ -138,6 +138,7 @@ Web security:
 - Hacking Web Apps: Detecting and Preventing Web Application Security Problems - Mike Shema
 - Hardening Linux Paperback - James Turnbull
 - The Basics of Hacking and Penetration Testing, Second Edition: Ethical Hacking and Penetration Testing Made Easy - Patrick Engebretson
+- Securing The API Stronghold - Nordic, pdf
 
 Entrepreneurship:
 Patent Strategy: For Researchers and Research Managers - H. Jackson Knight
