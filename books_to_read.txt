@@ -15,6 +15,7 @@ Best SE practice:
 - Growing Object-Oriented Software, Guided by Tests - Steve Freeman, Nat Pryce
 - Lightweight Systems for Realtime Monitoring - Sam Newman
 - SQL Antipatterns: Avoiding the Pitfalls of Database Programming - Bill Karwin
+- NoSQL Distilled: A Brief Guide to the Emerging World of Polyglot Persistence - Pramod J. Sadalage
 
 Software security:
 - Exploiting Software: How to Break Code - Greg Hoglund, Gary McGraw 
