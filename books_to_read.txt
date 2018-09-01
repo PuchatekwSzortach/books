@@ -48,6 +48,7 @@ DevOps:
 - Recipes for Continuous Database Integration - Pramod J. Sadalage
 - Terraform: Up and Running: Writing Infrastructure as Code - Yevgeniy Brikman
 - Infrastructure as Code: Managing Servers in the Cloud - Kief Morris
+- Docker Deep Dive - Nigel Poulton
 
 Data mining books:
 - Data Science for Business: What you need to know about data mining and data-analytic thinking - Foster Provost - has GREAT reviews!!!
