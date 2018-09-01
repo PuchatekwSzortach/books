@@ -149,6 +149,9 @@ Production-Ready Microservices: Building Standardized Systems Across an Engineer
 AWS Lambda: A Guide to Serverless Microservices
 Microservices: Patterns and Applications: Designing fine-grained services by applying patterns
 
+Wed development:
+Django for Beginners: Build websites with Python and Django - William S. Vincent
+
 Electronics and IoT:
 Electronics Cookbook: Practical Electronic Recipes with Arduino and Raspberry Pi - Simon Monk
 Teach Yourself Electricity and Electronics - Simon Monk
