@@ -61,3 +61,4 @@
 - April 2018 - "Can I Retire?: How Much Money You Need to Retire and How to Manage Your Retirement Savings, Explained in 100 Pages or Less" - Mike Piper
 - May 2018 - "Using Docker: Developing and Deploying Software with Containers" - Adrian Mouat
 - July 2018 - "Database Design for Mere Mortals: A Hands-On Guide to Relational Database Design" - Michael J. Hernandez
+- September 2018 - "The Software Engineer's Guide to Freelance Consulting: The new book that encompasses finding and maintaining clients as a software developer, tax and legal tips, and everything in between" - Zack Burt
