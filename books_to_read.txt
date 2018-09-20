@@ -143,7 +143,6 @@ Web security:
 
 Entrepreneurship:
 Patent Strategy: For Researchers and Research Managers - H. Jackson Knight
-The Software Engineer's Guide to Freelance Consulting: The new book that encompasses finding and maintaining clients as a software developer, tax and legal tips, and everything in between - Zack Burt
 
 Microservices:
 Microservice Architecture: Aligning Principles, Practices, and Culture
