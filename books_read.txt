@@ -62,3 +62,4 @@
 - May 2018 - "Using Docker: Developing and Deploying Software with Containers" - Adrian Mouat
 - July 2018 - "Database Design for Mere Mortals: A Hands-On Guide to Relational Database Design" - Michael J. Hernandez
 - September 2018 - "The Software Engineer's Guide to Freelance Consulting: The new book that encompasses finding and maintaining clients as a software developer, tax and legal tips, and everything in between" - Zack Burt
+- October 2018 - "Refactoring Databases: Evolutionary Database Design" - Scott J Ambler, Pramod J. Sadalage
