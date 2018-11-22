@@ -65,3 +65,4 @@
 - October 2018 - "Refactoring Databases: Evolutionary Database Design" - Scott J Ambler, Pramod J. Sadalage
 - October 2018 - "Recipes for Continuous Database Integration" - Pramod J. Sadalage
 - November 2018 - "NoSQL Distilled: A Brief Guide to the Emerging World of Polyglot Persistence" - Pramod J. Sadalage
+- November 2018 - "Terraform: Up and Running: Writing Infrastructure as Code" - Yevgeniy Brikman
