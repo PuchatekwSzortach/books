@@ -139,7 +139,8 @@ Web security:
 - Securing The API Stronghold - Nordic, pdf
 
 Entrepreneurship:
-Patent Strategy: For Researchers and Research Managers - H. Jackson Knight
+- Patent Strategy: For Researchers and Research Managers - H. Jackson Knight
+- Hello, Startup: A Programmer's Guide to Building Products, Technologies, and Teams - Yevgeniy Brikman
 
 Microservices:
 Microservice Architecture: Aligning Principles, Practices, and Culture
