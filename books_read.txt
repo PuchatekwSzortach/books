@@ -66,3 +66,5 @@
 - October 2018 - "Recipes for Continuous Database Integration" - Pramod J. Sadalage
 - November 2018 - "NoSQL Distilled: A Brief Guide to the Emerging World of Polyglot Persistence" - Pramod J. Sadalage
 - November 2018 - "Terraform: Up and Running: Writing Infrastructure as Code" - Yevgeniy Brikman
+
+- June 2019 - "AWS Certified Solutions Architect Official Study Guide: Associate Exam" - Joe Baron
