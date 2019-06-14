@@ -127,7 +127,6 @@ Cloud computing:
 - AWS Scripted 2 - Christian Cerri
 - AWS Lambda in Action: Event-driven serverless applications - Danilo Poccia
 - Amazon Web Services in Action - Andreas Wittig
-- AWS Certified Solutions Architect Official Study Guide: Associate Exam - Joe Baron
 - Azure for Architects: Implementing cloud design, DevOps, IoT, and serverless solutions on your public cloud - Ritesh Modi
 
 Web security:
