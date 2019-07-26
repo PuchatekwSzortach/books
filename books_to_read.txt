@@ -58,6 +58,7 @@ Machine learning:
 - Probability Theory: The Logic of Science
 - Machine Learning: a Probabilistic Perspective - Murphy
 - Reinforcement Learning: An Introduction - Richard S. Sutton
+- Generative Deep Learning: Teaching Machines to Paint, Write, Compose, and Play - David Foster
 
 Robotics:
 - Probabilistic Robotics - Sebastian Thrun and Wolfram Burgard
