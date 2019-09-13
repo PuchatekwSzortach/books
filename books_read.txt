@@ -68,3 +68,4 @@
 - November 2018 - "Terraform: Up and Running: Writing Infrastructure as Code" - Yevgeniy Brikman
 
 - June 2019 - "AWS Certified Solutions Architect Official Study Guide: Associate Exam" - Joe Baron
+- September 2019 - "Django for Beginners: Build websites with Python and Django" - William S. Vincent
