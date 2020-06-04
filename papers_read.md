@@ -13,3 +13,7 @@ A list of some of the more note-worthy papers I read
 
 ### Non-maximum suppression
 - Improving Object Detection With One Line of Code - August 2017 - a smarter NMS than hard treshold
+
+
+### Image ranking
+- In Defense of the Triplet Loss for Person Re-Identification - November 2017 - introduces batch-hard triplet loss + soft-margin, gives tips on what metrics to monitor during training (loss isn't necessarily the most appropriate one)
