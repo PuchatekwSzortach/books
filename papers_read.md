@@ -17,3 +17,4 @@ A list of some of the more note-worthy papers I read
 
 ### Image ranking
 - In Defense of the Triplet Loss for Person Re-Identification - November 2017 - introduces batch-hard triplet loss + soft-margin, gives tips on what metrics to monitor during training (loss isn't necessarily the most appropriate one)
+- Hard-Aware Point-to-Set Deep Metric for Person Re-identification - July 2018 - introduces point to set loss that is a generalization of BatchHard loss from `In Defense of the Triplet Loss for Person Re-Identification`. Loss is made from a weighted sum of all positive and negative samples with respect to anchor imge. Improves results and is more resilient to outliers/mislabeled samples.
