@@ -111,6 +111,7 @@
 - The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses - Eric Ries 
 - High Output Management - Andrew S. Grove
 - People Styles at Work...And Beyond: Making Bad Relationships Good and Good Relationships Better - Robert Bolton
+- The SPEED of Trust: The One Thing That Changes Everything - Stephen M .R. Covey
 
 ### Product development and design:
 - Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability - Steve Krug
