@@ -113,6 +113,7 @@
 - People Styles at Work...And Beyond: Making Bad Relationships Good and Good Relationships Better - Robert Bolton
 - The SPEED of Trust: The One Thing That Changes Everything - Stephen M .R. Covey
 - Only the Paranoid Survive: How to Exploit the Crisis Points That Challenge Every Company - Andrew S. Grove
+- A Sense of Urgency - John P. Kotter
 
 ### Product development and design:
 - Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability - Steve Krug
