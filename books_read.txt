@@ -69,3 +69,5 @@
 
 - June 2019 - "AWS Certified Solutions Architect Official Study Guide: Associate Exam" - Joe Baron
 - September 2019 - "Django for Beginners: Build websites with Python and Django" - William S. Vincent
+
+- September 2020 - "Site Reliability Engineering: How Google Runs Production Systems" - Niall Richard Murphy
