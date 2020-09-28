@@ -45,7 +45,6 @@
 - Release It!: Design and Deploy Production-Ready Software - Michael Nygard
 - Infrastructure as Code: Managing Servers in the Cloud - Kief Morris
 - Docker Deep Dive - Nigel Poulton
-- Site Reliability Engineering: How Google Runs Production Systems - Niall Richard Murphy
 
 ### Data mining books:
 - Data Science for Business: What you need to know about data mining and data-analytic thinking - Foster Provost - has GREAT reviews!!!
