@@ -151,15 +151,15 @@
 - Zero to One: Notes on Startups, or How to Build the Future - Peter Thiel
 
 ### Microservices:
-Microservice Architecture: Aligning Principles, Practices, and Culture
-Production-Ready Microservices: Building Standardized Systems Across an Engineering Organization
-AWS Lambda: A Guide to Serverless Microservices
-Microservices: Patterns and Applications: Designing fine-grained services by applying patterns
+- Microservice Architecture: Aligning Principles, Practices, and Culture
+- Production-Ready Microservices: Building Standardized Systems Across an Engineering Organization
+- AWS Lambda: A Guide to Serverless Microservices
+- Microservices: Patterns and Applications: Designing fine-grained services by applying patterns
 
 ### Electronics and IoT:
-Electronics Cookbook: Practical Electronic Recipes with Arduino and Raspberry Pi - Simon Monk
-Teach Yourself Electricity and Electronics - Simon Monk
-Make: Action: Movement, Light, and Sound with Arduino and Raspberry Pi  - Simon Monk
+- Electronics Cookbook: Practical Electronic Recipes with Arduino and Raspberry Pi - Simon Monk
+- Teach Yourself Electricity and Electronics - Simon Monk
+- Make: Action: Movement, Light, and Sound with Arduino and Raspberry Pi  - Simon Monk
 
 ### Housing:
-New Fix-It-Yourself Manual: How to Repair, Clean, and Maintain Anything and Everything In and Around Your Home
+- New Fix-It-Yourself Manual: How to Repair, Clean, and Maintain Anything and Everything In and Around Your Home
