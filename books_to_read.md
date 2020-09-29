@@ -113,6 +113,7 @@
 - The SPEED of Trust: The One Thing That Changes Everything - Stephen M .R. Covey
 - Only the Paranoid Survive: How to Exploit the Crisis Points That Challenge Every Company - Andrew S. Grove
 - A Sense of Urgency - John P. Kotter
+- Work Rules!: Insights from Inside Google That Will Transform How You Live and Lead - Laszlo Bock
 
 ### Product development and design:
 - Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability - Steve Krug
@@ -144,6 +145,10 @@
 - Patent Strategy: For Researchers and Research Managers - H. Jackson Knight
 - Hello, Startup: A Programmer's Guide to Building Products, Technologies, and Teams - Yevgeniy Brikman
 - Rest: Why You Get More Done When You Work Less - Alex Soojung-Kim Pang
+- Hard Thing About Hard Things - Ben Horowitz
+- The Alliance: Managing Talent in the Networked Age - Reid Hoffman
+- Building a StoryBrand: Clarify Your Message So Customers Will Listen - Donald Miller
+- Zero to One: Notes on Startups, or How to Build the Future - Peter Thiel
 
 ### Microservices:
 Microservice Architecture: Aligning Principles, Practices, and Culture
