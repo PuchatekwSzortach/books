@@ -71,3 +71,4 @@
 - September 2019 - "Django for Beginners: Build websites with Python and Django" - William S. Vincent
 
 - September 2020 - "Site Reliability Engineering: How Google Runs Production Systems" - Niall Richard Murphy
+- October 2020 - "Hard Thing About Hard Things" - Ben Horowitz
