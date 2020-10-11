@@ -145,7 +145,6 @@
 - Patent Strategy: For Researchers and Research Managers - H. Jackson Knight
 - Hello, Startup: A Programmer's Guide to Building Products, Technologies, and Teams - Yevgeniy Brikman
 - Rest: Why You Get More Done When You Work Less - Alex Soojung-Kim Pang
-- Hard Thing About Hard Things - Ben Horowitz
 - The Alliance: Managing Talent in the Networked Age - Reid Hoffman
 - Building a StoryBrand: Clarify Your Message So Customers Will Listen - Donald Miller
 - Zero to One: Notes on Startups, or How to Build the Future - Peter Thiel
