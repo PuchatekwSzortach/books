@@ -40,6 +40,7 @@
 
 ### DevOps:
 - The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win - Gene Kim
+- The Unicorn Project: A Novel about Developers, Digital Disruption, and Thriving in the Age of Data - Gene Kim
 - The Goal: A Process of Ongoing Improvement - Eliyahu M. Goldratt
 - The DevOps 2.0 Toolkit: Automating the Continuous Deployment Pipeline with Containerized Microservices
 - Release It!: Design and Deploy Production-Ready Software - Michael Nygard
