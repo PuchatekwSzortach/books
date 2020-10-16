@@ -72,3 +72,5 @@
 
 - September 2020 - "Site Reliability Engineering: How Google Runs Production Systems" - Niall Richard Murphy
 - October 2020 - "Hard Thing About Hard Things" - Ben Horowitz
+- October 2020 - "The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win" - Gene Kim
+
