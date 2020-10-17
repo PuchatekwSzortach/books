@@ -45,6 +45,7 @@
 - Release It!: Design and Deploy Production-Ready Software - Michael Nygard
 - Infrastructure as Code: Managing Servers in the Cloud - Kief Morris
 - Docker Deep Dive - Nigel Poulton
+- The DevOps Handbook:: How to Create World-Class Agility, Reliability, and Security in Technology Organizations - Gene Kim
 
 ### Data mining books:
 - Data Science for Business: What you need to know about data mining and data-analytic thinking - Foster Provost - has GREAT reviews!!!
