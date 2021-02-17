@@ -150,6 +150,7 @@
 - Zero to One: Notes on Startups, or How to Build the Future - Peter Thiel
 - The Happiness Advantage: How a Positive Brain Fuels Success in Work and Life - Shawn Achor
 - Crossing the Chasm: Marketing and Selling Technology Projects to Mainstream Customers - Geoffrey Moore
+- Fearless Salary Negotiation: A step-by-step guide to getting paid what you're worth - Josh Doody
 
 ### Microservices:
 - Microservice Architecture: Aligning Principles, Practices, and Culture
