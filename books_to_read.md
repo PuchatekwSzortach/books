@@ -113,7 +113,6 @@
 - The SPEED of Trust: The One Thing That Changes Everything - Stephen M .R. Covey
 - Only the Paranoid Survive: How to Exploit the Crisis Points That Challenge Every Company - Andrew S. Grove
 - A Sense of Urgency - John P. Kotter
-- Work Rules!: Insights from Inside Google That Will Transform How You Live and Lead - Laszlo Bock
 
 ### Product development and design:
 - Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability - Steve Krug
