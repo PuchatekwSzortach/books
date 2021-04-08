@@ -58,6 +58,7 @@
 - Machine Learning: a Probabilistic Perspective - Murphy
 - Reinforcement Learning: An Introduction - Richard S. Sutton
 - Generative Deep Learning: Teaching Machines to Paint, Write, Compose, and Play - David Foster
+- Building Machine Learning Powered Applications - Going from Idea to Product - Emmanuel Ameisen
 
 ### Robotics:
 - Probabilistic Robotics - Sebastian Thrun and Wolfram Burgard
