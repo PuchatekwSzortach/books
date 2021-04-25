@@ -76,4 +76,5 @@
 - December 2020 - "The Unicorn Project: A Novel about Developers, Digital Disruption, and Thriving in the Age of Data" - Gene Kim
 
 - March 2021 - "Work Rules!: Insights from Inside Google That Will Transform How You Live and Lead" - Laszlo Bock
+- April 2021 - "Crossing the Chasm: Marketing and Selling Technology Projects to Mainstream Customers" - Geoffrey Moore
 
