@@ -10,6 +10,7 @@ A list of some of the more note-worthy papers I read
 ### Segmentation
 - Encoder-Decoder with Atrous Separable Convolution for Semantic Image Segmentation - March 2018 - vastly improved results over FCN
 - Spatial As Deep: Spatial CNN for Traffic Scene Understanding - December 2017 - neat idea helping segmentation of long and partially obstructed objects, e.g. lane lines
+- Mask R-CNN - January 2018 - explains how instance segmentation is done from regions proposals, and how human pose estimation can be treated as a category segmentation problem
 
 ### Non-maximum suppression
 - Improving Object Detection With One Line of Code - August 2017 - a smarter NMS than hard treshold
