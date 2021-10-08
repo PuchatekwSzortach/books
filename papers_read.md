@@ -11,6 +11,7 @@ A list of some of the more note-worthy papers I read
 - Encoder-Decoder with Atrous Separable Convolution for Semantic Image Segmentation - March 2018 - vastly improved results over FCN
 - Spatial As Deep: Spatial CNN for Traffic Scene Understanding - December 2017 - neat idea helping segmentation of long and partially obstructed objects, e.g. lane lines
 - Mask R-CNN - January 2018 - explains how instance segmentation is done from regions proposals, and how human pose estimation can be treated as a category segmentation problem
+- Simple Copy-Paste is a Strong Data Augmentation Method for Instance Segmentation - June 2021 - shows that pasting instances on backgrounds of other images creates useful additional data for segmentation tasks
 
 ### Non-maximum suppression
 - Improving Object Detection With One Line of Code - August 2017 - a smarter NMS than hard treshold
