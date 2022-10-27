@@ -80,3 +80,4 @@
 
 - February 2022 - "Inside the Tornado: Strategies for Developing, Leveraging, and Surviving Hypergrowth Markets" - Geoffrey Moore
 - September 2022 - "High Output Management" - Andrew S. Grove
+- October 2022 - "Redis 4.x Cookbook: Over 80 hand-picked recipes for effective Redis development and administration" - Pengcheng Huang
