@@ -16,8 +16,10 @@ A list of some of the more note-worthy papers I read
 ### Non-maximum suppression
 - Improving Object Detection With One Line of Code - August 2017 - a smarter NMS than hard treshold
 
-
 ### Image ranking
 - In Defense of the Triplet Loss for Person Re-Identification - November 2017 - introduces batch-hard triplet loss + soft-margin, gives tips on what metrics to monitor during training (loss isn't necessarily the most appropriate one)
 - Hard-Aware Point-to-Set Deep Metric for Person Re-identification - July 2018 - introduces point to set loss that is a generalization of BatchHard loss from `In Defense of the Triplet Loss for Person Re-Identification`. Loss is made from a weighted sum of all positive and negative samples with respect to anchor imge. Improves results and is more resilient to outliers/mislabeled samples.
 - Combination of Multiple Global Descriptors for Image Retrieval - March 2019 - image ranking model based on a combination of fixed features build on top of convolutional channels.
+
+### Generative adversarial networks
+- Image-to-Image Translation with Conditional Adversarial Networks - February 2023 - introduces patch-wise discriminator. Discriminator predicts on 70x70 patches instead of entire image. Gives reasonable ok results for 256x256 images in image-to-image translation tasks that don't require large changes in shape.
