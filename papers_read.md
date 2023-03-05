@@ -8,6 +8,7 @@ A list of some of the more note-worthy papers I read
 - Heated-Up Softmax Embedding - September 2018 - shows how heating up logits of softmax layer leads to better separation between embeddings for different categories
 
 ### Segmentation
+- Fully Convolutional Networks for Semantic Segmentation - November 2013 - explains how convolutional networks and fully connected networks can be translated into each other, shows how to perform segmentations with convolutional layers only
 - Encoder-Decoder with Atrous Separable Convolution for Semantic Image Segmentation - March 2018 - vastly improved results over FCN
 - Spatial As Deep: Spatial CNN for Traffic Scene Understanding - December 2017 - neat idea helping segmentation of long and partially obstructed objects, e.g. lane lines
 - Mask R-CNN - January 2018 - explains how instance segmentation is done from regions proposals, and how human pose estimation can be treated as a category segmentation problem
