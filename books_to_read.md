@@ -113,6 +113,11 @@
 - The SPEED of Trust: The One Thing That Changes Everything - Stephen M .R. Covey
 - Only the Paranoid Survive: How to Exploit the Crisis Points That Challenge Every Company - Andrew S. Grove
 - A Sense of Urgency - John P. Kotter
+- The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change
+- An Elegant Puzzle: Systems of Engineering Management
+- Engineering Management for the Rest of Us
+- The First-Time Manager
+- Scaling Teams: Strategies for Building Successful Teams and Organizations
 
 ### Product development and design:
 - Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability - Steve Krug
@@ -149,6 +154,9 @@
 - Zero to One: Notes on Startups, or How to Build the Future - Peter Thiel
 - The Happiness Advantage: How a Positive Brain Fuels Success in Work and Life - Shawn Achor
 - Fearless Salary Negotiation: A step-by-step guide to getting paid what you're worth - Josh Doody
+- SYSTEMology: Create time, reduce errors and scale your profits with proven business systems - book on how CEO can organize company so it runs itself
+- Scale or Fail: How to Build Your Dream Team, Explode Your Growth, and Let Your Business Soar - apparently good book to go from solo business to early enterprise
+- M&A+: Fostering Trust, Reducing Risk and Adding Value During the Merger and Acquisition Process
 
 ### Microservices:
 - Microservice Architecture: Aligning Principles, Practices, and Culture
