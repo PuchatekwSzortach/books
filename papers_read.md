@@ -23,4 +23,5 @@ A list of some of the more note-worthy papers I read
 - Combination of Multiple Global Descriptors for Image Retrieval - March 2019 - image ranking model based on a combination of fixed features build on top of convolutional channels.
 
 ### Generative adversarial networks
-- Image-to-Image Translation with Conditional Adversarial Networks - February 2023 - introduces patch-wise discriminator. Discriminator predicts on 70x70 patches instead of entire image. Gives reasonable ok results for 256x256 images in image-to-image translation tasks that don't require large changes in shape.
+- Image-to-Image Translation with Conditional Adversarial Networks - November 2016 - also know as pix2pix - introduces patch-wise discriminator. Discriminator predicts on 70x70 patches instead of entire image. Gives reasonable ok results for 256x256 images in image-to-image translation tasks that don't require large changes in shape.
+- AutoRetouch: Automatic Professional Face Retouching - January 2021 - introduces a GAN model for automatic skin retouching and skin retouching dataset (FFHQR)
