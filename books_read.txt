@@ -86,3 +86,4 @@
 - April 2023 - "Speed Reading: Learn to Read a 200+ Page Book in 1 Hour" - Kam Knight
 - August 2023 - "Team Topologies: Organizing Business and Technology Teams for Fast Flow" - Matthew Skelton
 - September 2023 - "Engineering Management for the Rest of Us" - Sarah Drasner
+- October 2023 - "The Kubernetes Book" - Nigel Poulton
