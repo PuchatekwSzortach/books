@@ -163,6 +163,8 @@
 - Production-Ready Microservices: Building Standardized Systems Across an Engineering Organization
 - AWS Lambda: A Guide to Serverless Microservices
 - Microservices: Patterns and Applications: Designing fine-grained services by applying patterns
+- Building Event-Driven Microservices: Leveraging Organizational Data at Scale
+- Monolith to Microservices
 
 ### Electronics and IoT:
 - Electronics Cookbook: Practical Electronic Recipes with Arduino and Raspberry Pi - Simon Monk
