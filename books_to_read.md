@@ -15,6 +15,7 @@
 - Growing Object-Oriented Software, Guided by Tests - Steve Freeman, Nat Pryce
 - Lightweight Systems for Realtime Monitoring - Sam Newman
 - SQL Antipatterns: Avoiding the Pitfalls of Database Programming - Bill Karwin
+- Enterprise Integration Patterns - Hohpe Gregor
 
 ### Software security:
 - Exploiting Software: How to Break Code - Greg Hoglund, Gary McGraw 
