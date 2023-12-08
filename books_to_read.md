@@ -16,6 +16,7 @@
 - Lightweight Systems for Realtime Monitoring - Sam Newman
 - SQL Antipatterns: Avoiding the Pitfalls of Database Programming - Bill Karwin
 - Enterprise Integration Patterns - Hohpe Gregor
+- Practical Process Automation - Bernd Ruecker
 
 ### Software security:
 - Exploiting Software: How to Break Code - Greg Hoglund, Gary McGraw 
