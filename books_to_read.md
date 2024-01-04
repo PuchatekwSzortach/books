@@ -159,6 +159,7 @@
 - SYSTEMology: Create time, reduce errors and scale your profits with proven business systems - book on how CEO can organize company so it runs itself
 - Scale or Fail: How to Build Your Dream Team, Explode Your Growth, and Let Your Business Soar - apparently good book to go from solo business to early enterprise
 - M&A+: Fostering Trust, Reducing Risk and Adding Value During the Merger and Acquisition Process
+- The Crux: How Leaders Become Strategists - Richard P. Rumelt
 
 ### Microservices:
 - Microservice Architecture: Aligning Principles, Practices, and Culture
