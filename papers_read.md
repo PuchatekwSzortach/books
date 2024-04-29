@@ -24,5 +24,5 @@ A list of some of the more note-worthy papers I read
 
 ### Generative adversarial networks
 - Image-to-Image Translation with Conditional Adversarial Networks - November 2016 - also know as pix2pix - introduces patch-wise discriminator. Discriminator predicts on 70x70 patches instead of entire image. Gives reasonable ok results for 256x256 images in image-to-image translation tasks that don't require large changes in shape.
-- - Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks - March 2017 - also known as CycleGAN - shows a method to train generator mapping images from distribution X to distribution Y without paired inputs x -> y.
+- Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks - March 2017 - also known as CycleGAN - shows a method to train generator mapping images from distribution X to distribution Y without paired inputs x -> y.
 - AutoRetouch: Automatic Professional Face Retouching - January 2021 - introduces a GAN model for automatic skin retouching and skin retouching dataset (FFHQR)
