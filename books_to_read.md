@@ -17,6 +17,8 @@
 - SQL Antipatterns: Avoiding the Pitfalls of Database Programming - Bill Karwin
 - Enterprise Integration Patterns - Hohpe Gregor
 - Practical Process Automation - Bernd Ruecker
+- Elasticsearch in Action - Madhusudhan Konda
+- Building Real-Time Analytics Systems: From Events to Insights with Apache Kafka and Apache Pinot - Mark Needham
 
 ### Software security:
 - Exploiting Software: How to Break Code - Greg Hoglund, Gary McGraw 
