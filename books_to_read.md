@@ -122,6 +122,7 @@
 - Engineering Management for the Rest of Us
 - The First-Time Manager
 - Scaling Teams: Strategies for Building Successful Teams and Organizations
+- Accelerate - Jez Humble
 
 ### Product development and design:
 - Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability - Steve Krug
