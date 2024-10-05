@@ -123,6 +123,7 @@
 - The First-Time Manager
 - Scaling Teams: Strategies for Building Successful Teams and Organizations
 - Accelerate - Jez Humble
+- The Software Architect Elevator: Redefining the Architect's Role in the Digital Enterprise - Gregor Hohpe
 
 ### Product development and design:
 - Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability - Steve Krug
