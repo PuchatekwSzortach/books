@@ -164,6 +164,7 @@
 - Scale or Fail: How to Build Your Dream Team, Explode Your Growth, and Let Your Business Soar - apparently good book to go from solo business to early enterprise
 - M&A+: Fostering Trust, Reducing Risk and Adding Value During the Merger and Acquisition Process
 - The Crux: How Leaders Become Strategists - Richard P. Rumelt
+- Start Your Own Corporation - Garrett Sutton
 
 ### Microservices:
 - Microservice Architecture: Aligning Principles, Practices, and Culture
