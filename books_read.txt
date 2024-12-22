@@ -91,3 +91,4 @@
 - October 2024 - "Building Microservices: Designing Fine-Grained Systems (Second Edition)" - Sam Newman
 - December 2024 - "Rich Dad Poor Dad" - Robert Kiyosaki
 - December 2024 - "Start Your Own Corporation" - Garrett Sutton
+- December 2024 - "The 4-Hour Workweek" - Timothy Ferriss
