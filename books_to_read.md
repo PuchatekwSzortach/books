@@ -166,6 +166,7 @@
 - The Crux: How Leaders Become Strategists - Richard P. Rumelt
 - How to Make Millions with Your Ideas - Dan S. Kennedy
 - The E-Myth Revisited: Why Most Small Businesses Don't Work and What to Do About It - Michael E. Gerber
+- Secrets of power negotiating - Roger Dawson
 
 ### Microservices:
 - Microservice Architecture: Aligning Principles, Practices, and Culture
