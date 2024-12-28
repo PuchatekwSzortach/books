@@ -165,6 +165,7 @@
 - M&A+: Fostering Trust, Reducing Risk and Adding Value During the Merger and Acquisition Process
 - The Crux: How Leaders Become Strategists - Richard P. Rumelt
 - How to Make Millions with Your Ideas - Dan S. Kennedy
+- The E-Myth Revisited: Why Most Small Businesses Don't Work and What to Do About It - Michael E. Gerber
 
 ### Microservices:
 - Microservice Architecture: Aligning Principles, Practices, and Culture
