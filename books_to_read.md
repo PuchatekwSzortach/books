@@ -108,7 +108,6 @@
 - Regular Expressions Cookbook - Jan Goyvaerts
 
 ### Management books:
-- Peopleware: Productive Projects and Teams - Tom DeMarco
 - Small Is Beautiful: Economics as if People Mattered Paperback – E. F. Schumacher
 - Joel on Software: And on Diverse and Occasionally Related Matters That Will Prove of Interest to Software Developers, Designers, and Managers, and to Those Who, Whether by Good Fortune or Ill Luck, Work with Them in Some Capacity - Joel Spolsky
 - Principles of Software Engineering Management - Gilb, Tom
