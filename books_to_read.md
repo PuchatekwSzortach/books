@@ -117,7 +117,6 @@
 - A Sense of Urgency - John P. Kotter
 - The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change
 - An Elegant Puzzle: Systems of Engineering Management
-- Engineering Management for the Rest of Us
 - The First-Time Manager
 - Scaling Teams: Strategies for Building Successful Teams and Organizations
 - Accelerate - Jez Humble
