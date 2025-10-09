@@ -121,6 +121,8 @@
 - Accelerate - Jez Humble
 - The Software Architect Elevator: Redefining the Architect's Role in the Digital Enterprise - Gregor Hohpe
 - Leadership and Self-Deception: Getting Out of the Box - The Arbinger Institute
+- The Anatomy of Peace Resolving the Heart of Conflict - The Arbinger Institute
+- The Outward Mindset: Seeing Beyond Ourselves - The Arbinger Institute
 
 ### Product development and design:
 - Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability - Steve Krug
