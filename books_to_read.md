@@ -111,7 +111,6 @@
 - Joel on Software: And on Diverse and Occasionally Related Matters That Will Prove of Interest to Software Developers, Designers, and Managers, and to Those Who, Whether by Good Fortune or Ill Luck, Work with Them in Some Capacity - Joel Spolsky
 - Principles of Software Engineering Management - Gilb, Tom
 - The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses - Eric Ries 
-- People Styles at Work...And Beyond: Making Bad Relationships Good and Good Relationships Better - Robert Bolton
 - The SPEED of Trust: The One Thing That Changes Everything - Stephen M .R. Covey
 - Only the Paranoid Survive: How to Exploit the Crisis Points That Challenge Every Company - Andrew S. Grove
 - A Sense of Urgency - John P. Kotter
