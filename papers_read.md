@@ -6,6 +6,7 @@ A list of some of the more note-worthy papers I read
 - Group Normalization - March 2018 - activation normalization, alternative to Batch Normalization that doesn't depend on batch size and works very well
 - Weight Standardization - March 2019 - weights normalization that shows that by shifting means to 0 significant gains on accuracy can be achieved
 - Heated-Up Softmax Embedding - September 2018 - shows how heating up logits of softmax layer leads to better separation between embeddings for different categories
+- The Lottery Ticket Hypothesis: Finding sparse, trainable neural networks - March 2018 - explains how to initialize weights of a pruned network so it trains to same or better accuracy as the original, larger network
 
 ### Segmentation
 - Fully Convolutional Networks for Semantic Segmentation - November 2013 - explains how convolutional networks and fully connected networks can be translated into each other, shows how to perform segmentations with convolutional layers only
