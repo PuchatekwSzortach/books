@@ -120,7 +120,6 @@
 - Scaling Teams: Strategies for Building Successful Teams and Organizations
 - Accelerate - Jez Humble
 - The Software Architect Elevator: Redefining the Architect's Role in the Digital Enterprise - Gregor Hohpe
-- Leadership and Self-Deception: Getting Out of the Box - The Arbinger Institute
 - The Anatomy of Peace Resolving the Heart of Conflict - The Arbinger Institute
 - The Outward Mindset: Seeing Beyond Ourselves - The Arbinger Institute
 
