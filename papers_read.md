@@ -8,6 +8,7 @@ A list of some of the more note-worthy papers I read
 - Heated-Up Softmax Embedding - September 2018 - shows how heating up logits of softmax layer leads to better separation between embeddings for different categories
 - Learning both Weights and Connections for Efficient Neural Networks - explains how to prune weights of trained neural networks to about 1/10th of original parameter count without loss of accuracy
 - The Lottery Ticket Hypothesis: Finding sparse, trainable neural networks - March 2018 - explains how to initialize weights of a pruned network so it trains to same or better accuracy as the original, larger network
+- A Quality-Guided Mixture of Score-Fusion Experts Framework for Human Recognition - July 2025 - Jie Zhu, et al.
 
 
 ### Segmentation
