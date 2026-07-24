@@ -102,3 +102,5 @@
 - October 2025 - "People Styles at Work...And Beyond: Making Bad Relationships Good and Good Relationships Better" - Robert Bolton
 - October 2025 - "Leadership and Self-Deception" - The Arbinger Institute
 - October 2025 - "The Anatomy of Peace" - The Arbinger Institute
+
+- July 2026 - "The Rust Programming Language" - Steve Klabnik, Carol Nichols, and Chris Krycho
